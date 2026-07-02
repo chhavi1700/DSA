@@ -10,10 +10,9 @@ public:
         }
         int l=0;
         int r=ans.size()-1;
-        while(l<=r){
+        while(l<r){
             if(ans[l]!=ans[r]) {
                 return false;
-                break;
         }
         l++;
         r--;
