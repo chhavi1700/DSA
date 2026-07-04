@@ -32,13 +32,14 @@ public:
         int rightmax=0;
         int ans=0;
         while(l<r){
-            leftmax=max(leftmax,height[l]);
-            rightmax=max(rightmax,height[r]);
-            if(leftmax<rightmax){
+           
+            if(height[l] <= height[r]){
+                leftmax=max(leftmax,height[l]);
                 ans+=(leftmax-height[l]);
                 l++;
             }
             else {
+                 rightmax=max(rightmax,height[r]);
                 ans+=(rightmax-height[r]);
                 r--;
             }
