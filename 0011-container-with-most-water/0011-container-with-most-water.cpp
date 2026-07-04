@@ -6,12 +6,11 @@ public:
         int a=0;
         while(l<r){
             int area=min(height[l],height[r])*(r-l);
+            a=max(a,area);
             if(height[l]<height[r]){
-                if(area>a) a=area;
                 l++;
             }
             else{
-                if(area>a) a=area;
                 r--;
             }
         }
