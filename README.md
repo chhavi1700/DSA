@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/chhavi1700/DSA/tree/master/0006-zigzag-conversion) |
+| [0022-generate-parentheses](https://github.com/chhavi1700/DSA/tree/master/0022-generate-parentheses) |
 | [0097-interleaving-string](https://github.com/chhavi1700/DSA/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/chhavi1700/DSA/tree/master/0125-valid-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/chhavi1700/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/chhavi1700/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/chhavi1700/DSA/tree/master/0042-trapping-rain-water) |
 | [0097-interleaving-string](https://github.com/chhavi1700/DSA/tree/master/0097-interleaving-string) |
 ## Stack
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/chhavi1700/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/chhavi1700/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
