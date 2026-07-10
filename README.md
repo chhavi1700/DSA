@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/chhavi1700/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/chhavi1700/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/chhavi1700/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chhavi1700/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/chhavi1700/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/chhavi1700/DSA/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/chhavi1700/DSA/tree/master/0022-generate-parentheses) |
 | [0097-interleaving-string](https://github.com/chhavi1700/DSA/tree/master/0097-interleaving-string) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/chhavi1700/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/chhavi1700/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/chhavi1700/DSA/tree/master/0042-trapping-rain-water) |
 | [0097-interleaving-string](https://github.com/chhavi1700/DSA/tree/master/0097-interleaving-string) |
