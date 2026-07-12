@@ -6,7 +6,6 @@ public:
         for(int i=0;i<prices.size();i++){
             mini=min(prices[i],mini);
             maxi=max(maxi,prices[i]-mini);
-            cout<<mini<<" "<<maxi<<endl;
         }
         return(maxi);
     }
