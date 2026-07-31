@@ -1,34 +1,27 @@
 class Solution {
 public:
     int minimumPushes(string word) {
+        int freq[26] = {0};
 
-    int n = 8;
+// Count frequency of each character
+for (char c : word)
+    freq[c - 'a']++;
 
-    unordered_map<char, int> freq;
+// Append frequencies to a vector
+vector<int> v;
 
-    // Count frequencies
-    for (char c : word)
-        freq[c]++;
-
-    // Store frequencies in a vector
-    vector<int> v;
-    for (auto it : freq)
-        v.push_back(it.second);
-
-    // Sort in descending order
-    sort(v.begin(), v.end(), greater<int>());
-
-    int ans = 0;
-    int multiplier = 1;
-
-    for (int i = 0; i < v.size(); i++) {
-        ans += v[i] * multiplier;
-
-        // Increase multiplier after every n frequencies
-        if ((i + 1) % n == 0)
-            multiplier++;
-    }
-
-    return ans;
+for (int i = 0; i < 26; i++) {
+    if (freq[i] > 0)
+        v.push_back(freq[i]);
+}
+int sum=0;
+sort(v.begin(),v.end(),greater<int>());
+        for (int i = 0; i < v.size(); i++) {
+    if (i < 8) sum += v[i];
+    else if (i < 16) sum += v[i] * 2;
+    else if (i < 24) sum += v[i] * 3;
+    else sum += v[i] * 4;
+}
+        return sum;
     }
 };
