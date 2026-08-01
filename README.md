@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chhavi1700/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/chhavi1700/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/chhavi1700/DSA/tree/master/0283-move-zeroes) |
+| [0486-predict-the-winner](https://github.com/chhavi1700/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chhavi1700/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1030-matrix-cells-in-distance-order](https://github.com/chhavi1700/DSA/tree/master/1030-matrix-cells-in-distance-order) |
 | [1260-shift-2d-grid](https://github.com/chhavi1700/DSA/tree/master/1260-shift-2d-grid) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/chhavi1700/DSA/tree/master/0053-maximum-subarray) |
 | [0097-interleaving-string](https://github.com/chhavi1700/DSA/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chhavi1700/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/chhavi1700/DSA/tree/master/0486-predict-the-winner) |
 ## Stack
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/chhavi1700/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chhavi1700/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1030-matrix-cells-in-distance-order](https://github.com/chhavi1700/DSA/tree/master/1030-matrix-cells-in-distance-order) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chhavi1700/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -169,4 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1030-matrix-cells-in-distance-order](https://github.com/chhavi1700/DSA/tree/master/1030-matrix-cells-in-distance-order) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/chhavi1700/DSA/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/chhavi1700/DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
