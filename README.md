@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/chhavi1700/DSA/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chhavi1700/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/chhavi1700/DSA/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/chhavi1700/DSA/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/chhavi1700/DSA/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/chhavi1700/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chhavi1700/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1030-matrix-cells-in-distance-order](https://github.com/chhavi1700/DSA/tree/master/1030-matrix-cells-in-distance-order) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chhavi1700/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -179,8 +181,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/chhavi1700/DSA/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/chhavi1700/DSA/tree/master/0509-fibonacci-number) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/chhavi1700/DSA/tree/master/0486-predict-the-winner) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/chhavi1700/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
