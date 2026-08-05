@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/chhavi1700/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/chhavi1700/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chhavi1700/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/chhavi1700/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chhavi1700/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chhavi1700/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/chhavi1700/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chhavi1700/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chhavi1700/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chhavi1700/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/chhavi1700/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3731-find-missing-elements](https://github.com/chhavi1700/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chhavi1700/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/chhavi1700/DSA/tree/master/0877-stone-game) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/chhavi1700/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
