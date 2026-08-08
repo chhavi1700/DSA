@@ -1,7 +1,6 @@
 class Solution {
 public:
     int smallestNumber(int n, int t) {
-         
         while(true){   
              int p=1;
              int temp=n;
