@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/chhavi1700/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/chhavi1700/DSA/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/chhavi1700/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/chhavi1700/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/chhavi1700/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/chhavi1700/DSA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/chhavi1700/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/chhavi1700/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/chhavi1700/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/chhavi1700/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/chhavi1700/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chhavi1700/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/chhavi1700/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/chhavi1700/DSA/tree/master/0283-move-zeroes) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/chhavi1700/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/chhavi1700/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/chhavi1700/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/chhavi1700/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/chhavi1700/DSA/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chhavi1700/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/chhavi1700/DSA/tree/master/0977-squares-of-a-sorted-array) |
