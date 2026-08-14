@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/chhavi1700/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chhavi1700/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chhavi1700/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/chhavi1700/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/chhavi1700/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/chhavi1700/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/chhavi1700/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chhavi1700/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chhavi1700/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/chhavi1700/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/chhavi1700/DSA/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chhavi1700/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/chhavi1700/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Number Theory
 |  |
 | ------- |
