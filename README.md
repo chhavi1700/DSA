@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/chhavi1700/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/chhavi1700/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chhavi1700/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/chhavi1700/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/chhavi1700/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/chhavi1700/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/chhavi1700/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/chhavi1700/DSA/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/chhavi1700/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/chhavi1700/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chhavi1700/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/chhavi1700/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/chhavi1700/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chhavi1700/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/chhavi1700/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/chhavi1700/DSA/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/chhavi1700/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1386-cinema-seat-allocation](https://github.com/chhavi1700/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/chhavi1700/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chhavi1700/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/chhavi1700/DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/chhavi1700/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
