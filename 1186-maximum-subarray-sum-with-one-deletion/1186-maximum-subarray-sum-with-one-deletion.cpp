@@ -7,8 +7,9 @@ public:
         for(int i=1;i<arr.size();i++){
             int v1=arr[i];
             int v2=nd+arr[i];
+            int prev=nd;
             if(od==INT_MIN)od=arr[0];
-            od=max(nd,od+v1);
+            od=max(prev,od+v1);
             nd=max(v1,v2);            
             ans=max(ans,max(nd,od));
         }
