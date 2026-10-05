@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/chhavi1700/DSA/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/chhavi1700/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1030-matrix-cells-in-distance-order](https://github.com/chhavi1700/DSA/tree/master/1030-matrix-cells-in-distance-order) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/chhavi1700/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1260-shift-2d-grid](https://github.com/chhavi1700/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/chhavi1700/DSA/tree/master/1288-remove-covered-intervals) |
 | [1386-cinema-seat-allocation](https://github.com/chhavi1700/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/chhavi1700/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/chhavi1700/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/chhavi1700/DSA/tree/master/0877-stone-game) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/chhavi1700/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Stack
 |  |
 | ------- |
