@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/chhavi1700/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chhavi1700/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/chhavi1700/DSA/tree/master/0152-maximum-product-subarray) |
+| [0209-minimum-size-subarray-sum](https://github.com/chhavi1700/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/chhavi1700/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/chhavi1700/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/chhavi1700/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/chhavi1700/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chhavi1700/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/chhavi1700/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chhavi1700/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/chhavi1700/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chhavi1700/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Number Theory
 |  |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/chhavi1700/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/chhavi1700/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
