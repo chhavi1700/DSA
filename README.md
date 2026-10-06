@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/chhavi1700/DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/chhavi1700/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/chhavi1700/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/chhavi1700/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -266,18 +267,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/chhavi1700/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/chhavi1700/DSA/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/chhavi1700/DSA/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/chhavi1700/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chhavi1700/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/chhavi1700/DSA/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/chhavi1700/DSA/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/chhavi1700/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chhavi1700/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/chhavi1700/DSA/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/chhavi1700/DSA/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/chhavi1700/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
