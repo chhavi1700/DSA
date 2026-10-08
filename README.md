@@ -365,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/chhavi1700/DSA/tree/master/0572-subtree-of-another-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/chhavi1700/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
