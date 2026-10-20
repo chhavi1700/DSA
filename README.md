@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/chhavi1700/DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/chhavi1700/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/chhavi1700/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/chhavi1700/DSA/tree/master/0994-rotting-oranges) |
 | [1030-matrix-cells-in-distance-order](https://github.com/chhavi1700/DSA/tree/master/1030-matrix-cells-in-distance-order) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/chhavi1700/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1260-shift-2d-grid](https://github.com/chhavi1700/DSA/tree/master/1260-shift-2d-grid) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/chhavi1700/DSA/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/chhavi1700/DSA/tree/master/0994-rotting-oranges) |
 | [1030-matrix-cells-in-distance-order](https://github.com/chhavi1700/DSA/tree/master/1030-matrix-cells-in-distance-order) |
 | [1260-shift-2d-grid](https://github.com/chhavi1700/DSA/tree/master/1260-shift-2d-grid) |
 ## Heap (Priority Queue)
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/chhavi1700/DSA/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/chhavi1700/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/chhavi1700/DSA/tree/master/0226-invert-binary-tree) |
+| [0994-rotting-oranges](https://github.com/chhavi1700/DSA/tree/master/0994-rotting-oranges) |
 ## Bit Manipulation
 |  |
 | ------- |
